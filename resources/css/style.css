@@ -43,6 +43,9 @@ header {
   color: white;
   list-style-type: none;
 }
+.header-nav a {
+  color: white;
+}
 footer {
   text-align: left;
   background-color: dimgray;
