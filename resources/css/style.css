@@ -7,10 +7,6 @@ h1 {
   font-weight: bold;
   color: white
 }
-li {
-  font-size:18px;
-  color: white;
-}
 h4 {
   font-size: 23px;
   font-weight: bold;
@@ -44,6 +40,7 @@ header {
   font-size: 18px;
   font-weight: bold;
   color: white;
+  list-style-type: none;
 }
 footer {
   text-align: left;
