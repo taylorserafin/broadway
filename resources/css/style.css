@@ -23,6 +23,11 @@ h6 {
 p {
   font-size: 14px;
 }
+h5{
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
 nav {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
@@ -30,14 +35,8 @@ nav {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 mark. links {
-  color: white;
-  background-color: dimgray;
   font-size: 18px;
-  text-align: left;
 }
 mark. copyright {
   font-size:11px;
-  background-color: dimgray;
-  color: white;
-  text-align: left;
 }
