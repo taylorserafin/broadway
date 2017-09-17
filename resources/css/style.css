@@ -38,6 +38,7 @@ header {
 }
 .header-nav ul li {
   font-size: 18px;
+  padding: 18px;
   font-weight: bold;
   color: white;
   list-style-type: none;
