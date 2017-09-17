@@ -32,15 +32,24 @@ h5{
   background-color: dimgray;
   text-align: left;
 }
-nav {
+header {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-position: center;
+  background-size: cover;
 }
 #newyork {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
-mark. links {
-  font-size: 18px;
+footer {
+  text-align: left;
+  background-color: dimgray;
 }
-mark. copyright {
-  font-size:11px;
+.footer-nav ul li {
+  color: white;
+  list-style-type: none;
+  display: inline;
+}
+.footer-nav a {
+  color:white;
+  padding-left: 5px;
 }
