@@ -15,6 +15,9 @@ h4 {
   font-size: 23px;
   font-weight: bold;
   color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-position: center;
+  background-size: cover;
 }
 h2 {
   font-size: 32px;
@@ -41,9 +44,6 @@ header {
   font-size: 70px;
   font-weight: bold;
   color: white;
-}
-#newyork {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 footer {
   text-align: left;
