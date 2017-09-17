@@ -1,5 +1,5 @@
 html {
-  font-family: Helvetica
+  font-family: Helvetica;
   text-align: center;
 }
 h1 {
@@ -19,10 +19,10 @@ p {
   font-size: 14px;
 }
 #navigation {
-  background-image: src="./resources/images/the-flatiron-building.png";
+  background-image: url("the-flatiron-building.png");
 }
 #newyork {
-  background-image: src="./resources/images/the-flatiron-building.png";
+  background-image: url("the-flatiron-building.png");
 }
 #footer {
   color: white;
@@ -31,4 +31,5 @@ p {
 }
 mark. copyright {
   font-size:11px;
+  background-color: dimgray;
 }
